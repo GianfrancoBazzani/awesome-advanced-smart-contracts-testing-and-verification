@@ -2,7 +2,7 @@
 
 # Awesome Advanced Smart Contracts Testing and Verification [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> A curated collection of tools, frameworks, and methodologies for testing and verifying smart contracts. Designed for blockchain developers and security researchers.
+> A curated collection of tools, frameworks, and resources for testing and verifying smart contracts. Meant to be used by blockchain developers and security researchers as a knowledge source.
 
 ## Contents
 
@@ -17,7 +17,7 @@
 
 ## Tools
 
-Arsenal of tools, tailor-made for probing and dissecting the inner workings of smart contracts, crème de la crème of fuzzing and verification tools.
+Arsenal of fuzzing and verification tools, tailor-made for probing and dissecting the inner workings of smart contracts.
 
 - [**Foundry | Ethereum development framework written in Rust**](https://github.com/foundry-rs)
 - [**Echinda | Ethereum smart contract Property-based fuzzer**](https://github.com/crytic/echidna/)
@@ -27,6 +27,9 @@ Arsenal of tools, tailor-made for probing and dissecting the inner workings of s
 - [**Etheno | JSON RPC multiplexer, analysis tool wrapper, test integration tool**](https://github.com/crytic/etheno)
 - [**Certora Prover | Formal verification Tool**](https://docs.certora.com/en/latest/docs/whitepaper/index.html#certora-tool-suite)
 - [**Halmos | Symbolic testing tool for EVM smart contracts**](https://github.com/a16z/halmos)
+- [**Simbolik | Solidity smart contract symbolic debugger**](https://simbolik.runtimeverification.com/)
+- [**Kontrol | Formal verification with KEVM and Foundry**](https://docs.runtimeverification.com/kontrol/overview/readme)
+- [**Dafny-EVM | functional specification of the Ethereum Virtual Machine in Dafny**](https://github.com/ConsenSys/evm-dafny)
 - [**Pyrometer | symbolic execution, abstract interpretation, and static analysis**](https://github.com/nascentxyz/pyrometer/tree/master)
 - [**Gambit | Solidity mutation system**](https://github.com/Certora/gambit)
 - [**Vertigo-rs | Ethereum smart contract mutation testing framework**](https://github.com/JoranHonig/vertigo)
@@ -76,11 +79,18 @@ Arsenal of tools, tailor-made for probing and dissecting the inner workings of s
 
 **Formal Verification** is an approach to assessing the correctness of software by checking whether a formal model of the program matches the formal specification. Unlike testing, formal verification can verify a smart contract's execution satisfies a formal specification for all executions without needing to execute it with sample data.
 
-WIP
+- [**Everything You Wanted to Know About Symbolic Execution for Ethereum Smart Contracts**](https://hackmd.io/@SaferMaker/EVM-Sym-Exec)
+- [**The Easy Way To Quit (Concrete) Testing**](https://hackmd.io/@SaferMaker/EVM-Sym-Test)
+- [**0xkarmacoma Beyond Fuzzing: Symbolic Testing in Practice Solidity Summit 2023**](https://app.streameth.org/devconnect/solidity_summit/session/beyond_fuzzing_symbolic_testing_in_practice) ([X thread](https://twitter.com/0xkarmacoma/status/1725675343993065504))
+- [**jellopaper.org KEVM: Semantics of EVM in K**](https://jellopaper.org/)
+- [**David Pearce Formal Verification of EVM Bytecode with DafnyEVM Solidity Summit 2023**](https://app.streameth.org/devconnect/evm_summit/session/formal_verification_of_evm_bytecode)
 
 ## Mutation Testing
 
-WIP
+Mutation testing is a technique for evaluating and improving test suites. The key idea is to introduce faults, called mutants, to the program under test and measure a test suite’s ability to detect these mutants.
+
+- [**Chandrakana Nandi, How Good Is Your Formal Specification? Mutation Testing To The Rescue! Solidity Summit 2023**](https://app.streameth.org/devconnect/solidity_summit/session/how_good_is_your_formal_specification_mutation_testing_to_the_rescue)
+- [**Certora Gambit: Mutation Generator for Solidity Docs**](http://rtora.com/en/latest/docs/gambit/index.html)
 
 ## Branching Tree Technique
 
