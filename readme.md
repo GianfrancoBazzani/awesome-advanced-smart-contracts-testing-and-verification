@@ -79,6 +79,9 @@ Arsenal of fuzzing and verification tools, tailor-made for probing and dissectin
 
 **Formal Verification** is an approach to assessing the correctness of software by checking whether a formal model of the program matches the formal specification. Unlike testing, formal verification can verify a smart contract's execution satisfies a formal specification for all executions without needing to execute it with sample data.
 
+- [**Certora prover documentation**](https://docs.certora.com/en/latest/)
+- [**ERC4626 TruxtX 2023 workshop**](https://github.com/Certora/ERC4626_Workshop)
+- [**Certora Formal Verification of Openzeppelin contracts**](https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/certora/README.md)
 - [**Everything You Wanted to Know About Symbolic Execution for Ethereum Smart Contracts**](https://hackmd.io/@SaferMaker/EVM-Sym-Exec)
 - [**The Easy Way To Quit (Concrete) Testing**](https://hackmd.io/@SaferMaker/EVM-Sym-Test)
 - [**0xkarmacoma Beyond Fuzzing: Symbolic Testing in Practice Solidity Summit 2023**](https://app.streameth.org/devconnect/solidity_summit/session/beyond_fuzzing_symbolic_testing_in_practice) ([X thread](https://twitter.com/0xkarmacoma/status/1725675343993065504))
