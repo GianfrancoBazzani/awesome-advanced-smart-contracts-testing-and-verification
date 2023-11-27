@@ -44,6 +44,7 @@ Arsenal of fuzzing and verification tools, tailor-made for probing and dissectin
 - [**@vn_martinez\_ Mastering Fuzzing**](https://www.youtube.com/watch?v=83q14K-WNKM) ([seminar materials](https://github.com/Elpacos/mastering-fuzzing))
 - [**Foundry Book Fuzz Testing**](https://book.getfoundry.sh/forge/fuzz-testing)
 - [**Frax finance frax-solidity Foundry tests**](https://github.com/FraxFinance/frax-solidity/blob/master/src/foundry/test/veFPISProxy.t.sol)
+- [**@paco0x Kyber Network exploit reproduction with Fuzzing**](https://github.com/paco0x/kyber-exploit-example)
 
 ### Property-based Fuzz Testing
 
@@ -80,7 +81,7 @@ Arsenal of fuzzing and verification tools, tailor-made for probing and dissectin
 **Formal Verification** is an approach to assessing the correctness of software by checking whether a formal model of the program matches the formal specification. Unlike testing, formal verification can verify a smart contract's execution satisfies a formal specification for all executions without needing to execute it with sample data.
 
 - [**Certora prover documentation**](https://docs.certora.com/en/latest/)
-- [**ERC4626 TruxtX 2023 workshop**](https://github.com/Certora/ERC4626_Workshop)
+- [**Certora ERC4626 TrustX 2023 workshop**](https://github.com/Certora/ERC4626_Workshop)
 - [**Certora Formal Verification of Openzeppelin contracts**](https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/certora/README.md)
 - [**Everything You Wanted to Know About Symbolic Execution for Ethereum Smart Contracts**](https://hackmd.io/@SaferMaker/EVM-Sym-Exec)
 - [**The Easy Way To Quit (Concrete) Testing**](https://hackmd.io/@SaferMaker/EVM-Sym-Test)
