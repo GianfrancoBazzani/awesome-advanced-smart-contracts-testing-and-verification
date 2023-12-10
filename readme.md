@@ -77,6 +77,7 @@ Arsenal of fuzzing and verification tools, tailor-made for probing and dissectin
 - [**Seaport | Discussion #809 Understanding the "DifferentialTest" test contract**](https://github.com/ProjectOpenSea/seaport/discussions/809)
 - [**Murky Merkle Tree DifferentialTests.t.sol**](https://github.com/dmfxyz/murky/blob/main/differential_testing/test/DifferentialTests.t.sol)
 - [**EnbangWu Differential Fuzzing of solidity Fixed-point libraries**](https://github.com/EnbangWu/differential-fuzzing)
+- [**Using Halmos to Formally Verify Solady's FixedPointMathLib**](https://github.com/zobront/halmos-solady)
 
 ## Formal Verification
 
