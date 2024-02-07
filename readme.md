@@ -71,7 +71,7 @@ Arsenal of fuzzing and verification tools, tailor-made for probing and dissectin
 
 **Differential testing** is used to ensure identical behavior between two or more implementations of equivalent code. Useful if you are upgrading/updating code, or have written a more optimized version but you want to verify congruence among implementations.
 
-- [**@annascarrol Solidity Summit 2023 - Differential Testing with Foundry by Anna Carroll**](https://twitter.com/i/broadcasts/1BdGYrpOQVXJX) ([link 2](https://app.streameth.org/devconnect/solidity_summit/session/differential_testing_with_foundry))
+- [**@annascarrol Solidity Summit 2023 - Differential Testing with Foundry by Anna Carroll**](https://twitter.com/i/broadcasts/1BdGYrpOQVXJX) ([link 2](https://www.youtube.com/watch?v=wV8xuj-XsjA&list=PLX8x7Zj6VeznJuVkZtRyKwseJdrr4mNsE&index=13))
 - [**Differential Test | Testing with Foundry**](https://www.youtube.com/watch?v=WhZQhxOG124)
 - [**Foundry Book differential testing**](https://book.getfoundry.sh/forge/differential-ffi-testing)
 - [**Seaport | Discussion #809 Understanding the "DifferentialTest" test contract**](https://github.com/ProjectOpenSea/seaport/discussions/809)
@@ -88,7 +88,7 @@ Arsenal of fuzzing and verification tools, tailor-made for probing and dissectin
 - [**Certora Formal Verification of Openzeppelin contracts**](https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/certora/README.md)
 - [**Everything You Wanted to Know About Symbolic Execution for Ethereum Smart Contracts**](https://hackmd.io/@SaferMaker/EVM-Sym-Exec)
 - [**The Easy Way To Quit (Concrete) Testing**](https://hackmd.io/@SaferMaker/EVM-Sym-Test)
-- [**0xkarmacoma Beyond Fuzzing: Symbolic Testing in Practice Solidity Summit 2023**](https://app.streameth.org/devconnect/solidity_summit/session/beyond_fuzzing_symbolic_testing_in_practice) ([X thread](https://twitter.com/0xkarmacoma/status/1725675343993065504))
+- [**0xkarmacoma Beyond Fuzzing: Symbolic Testing in Practice Solidity Summit 2023**](https://www.youtube.com/watch?v=GFCjG5KOetM&list=PLX8x7Zj6VeznJuVkZtRyKwseJdrr4mNsE&index=13) ([X thread](https://twitter.com/0xkarmacoma/status/1725675343993065504))
 - [**runtime verification The Symbolic Solidity Debugger TrustX 2023**](https://app.streameth.org/secureum/secureum_trustx/session/the_symbolic_solidity_debugger)
 - [**jellopaper.org KEVM: Semantics of EVM in K**](https://jellopaper.org/)
 - [**David Pearce Formal Verification of EVM Bytecode with DafnyEVM Solidity Summit 2023**](https://app.streameth.org/devconnect/evm_summit/session/formal_verification_of_evm_bytecode)
@@ -97,7 +97,7 @@ Arsenal of fuzzing and verification tools, tailor-made for probing and dissectin
 
 Mutation testing is a technique for evaluating and improving test suites. The key idea is to introduce faults, called mutants, to the program under test and measure a test suite’s ability to detect these mutants.
 
-- [**Chandrakana Nandi, How Good Is Your Formal Specification? Mutation Testing To The Rescue! Solidity Summit 2023**](https://app.streameth.org/devconnect/solidity_summit/session/how_good_is_your_formal_specification_mutation_testing_to_the_rescue)
+- [**Chandrakana Nandi, How Good Is Your Formal Specification? Mutation Testing To The Rescue! Solidity Summit 2023**](https://www.youtube.com/watch?v=g3dxF7XfBWk&list=PLX8x7Zj6VeznJuVkZtRyKwseJdrr4mNsE&index=5)
 - [**Certora Gambit: Mutation Generator for Solidity Docs**](http://rtora.com/en/latest/docs/gambit/index.html)
 
 ## Branching Tree Technique
@@ -105,7 +105,7 @@ Mutation testing is a technique for evaluating and improving test suites. The ke
 Specification framework for writing structured Solidity tests.
 
 - [**@PaulRBerg Branching Tree Technique**](https://twitter.com/PaulRBerg/status/1682346315806539776)
-- [**@PaulRberg Solidity Summit 2023 Branching Tree Technique**](https://app.streameth.org/devconnect/solidity_summit/session/branching_tree_technique_writing_structured_solidity_tests)
+- [**@PaulRberg Solidity Summit 2023 Branching Tree Technique**](https://www.youtube.com/watch?v=0-EmbNVgFA4&list=PLX8x7Zj6VeznJuVkZtRyKwseJdrr4mNsE&index=14)
 - [**PaulRBerg/btt-examples**](https://github.com/PaulRBerg/btt-examples)
 
 ## Contribute
