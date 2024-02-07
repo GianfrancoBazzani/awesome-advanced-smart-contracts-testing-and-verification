@@ -89,9 +89,8 @@ Arsenal of fuzzing and verification tools, tailor-made for probing and dissectin
 - [**Everything You Wanted to Know About Symbolic Execution for Ethereum Smart Contracts**](https://hackmd.io/@SaferMaker/EVM-Sym-Exec)
 - [**The Easy Way To Quit (Concrete) Testing**](https://hackmd.io/@SaferMaker/EVM-Sym-Test)
 - [**0xkarmacoma Beyond Fuzzing: Symbolic Testing in Practice Solidity Summit 2023**](https://www.youtube.com/watch?v=GFCjG5KOetM&list=PLX8x7Zj6VeznJuVkZtRyKwseJdrr4mNsE&index=13) ([X thread](https://twitter.com/0xkarmacoma/status/1725675343993065504))
-- [**runtime verification The Symbolic Solidity Debugger TrustX 2023**](https://app.streameth.org/secureum/secureum_trustx/session/the_symbolic_solidity_debugger)
+- [**runtime verification The Symbolic Solidity Debugger TrustX 2023**](https://www.youtube.com/watch?v=irwV7c8cFRY&list=PLYORQHvGMg-WwVyOrOiRVEgw4QCzxHXSQ&index=8)
 - [**jellopaper.org KEVM: Semantics of EVM in K**](https://jellopaper.org/)
-- [**David Pearce Formal Verification of EVM Bytecode with DafnyEVM Solidity Summit 2023**](https://app.streameth.org/devconnect/evm_summit/session/formal_verification_of_evm_bytecode)
 
 ## Mutation Testing
 
