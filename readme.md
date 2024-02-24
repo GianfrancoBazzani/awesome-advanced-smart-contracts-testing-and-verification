@@ -44,7 +44,6 @@ Arsenal of fuzzing and verification tools, tailor-made for probing and dissectin
 - [**@vn_martinez\_ Mastering Fuzzing**](https://www.youtube.com/watch?v=83q14K-WNKM) ([seminar materials](https://github.com/Elpacos/mastering-fuzzing))
 - [**@dacian Exploiting Precision Loss via Fuzz Testing**](https://dacian.me/exploiting-precision-loss-via-fuzz-testing)
 - [**Foundry Book Fuzz Testing**](https://book.getfoundry.sh/forge/fuzz-testing)
-- [**Frax finance frax-solidity Foundry tests**](https://github.com/FraxFinance/frax-solidity/blob/master/src/foundry/test/veFPISProxy.t.sol)
 - [**@paco0x Kyber Network exploit reproduction with Fuzzing**](https://github.com/paco0x/kyber-exploit-example)
 
 ### Property-based Fuzz Testing
@@ -61,11 +60,8 @@ Arsenal of fuzzing and verification tools, tailor-made for probing and dissectin
 - [**Patrick Collins Fuzz | Invariant Tests**](https://patrickalphac.medium.com/fuzz-invariant-tests-the-new-bare-minimum-for-smart-contract-security-87ebe150e88c)
 - [**Hybrid fuzzing: Sharpening the spikes of Echidna**](https://blog.trailofbits.com/2022/12/08/hybrid-echidna-fuzzing-optik-maat/)
 - [**Foundry Book Invariant Testing**](https://book.getfoundry.sh/forge/invariant-testing)
-- [**BadgerDAO eBTC invariant fuzzing setup**](https://github.com/code-423n4/2023-10-badger/tree/main/packages/contracts/foundry_test)
-- [**Maple core v2 tests**](https://github.com/maple-labs/maple-core-v2/tree/main/tests)
-- [**Uniswap permit 2 AllowanceTransferInvariants.t.sol**](https://github.com/Uniswap/permit2/blob/main/test/AllowanceTransferInvariants.t.sol)
-- [**Frax finance frax-solidity Echidna tests**](https://github.com/FraxFinance/frax-solidity/tree/master/src/echidna)
-- [**Sablier-labs v2-core foundry invariants**](https://github.com/sablier-labs/v2-core/tree/main/test/invariant)
+- [**Perimetersec Public Fuzzing Campaigns List**](https://github.com/perimetersec/public-fuzzing-campaigns-list)
+- [**Public Use of Echidna**](https://github.com/crytic/echidna?tab=readme-ov-file#public-use-of-echidna)
 
 ### Differential Fuzz Testing
 
