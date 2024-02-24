@@ -56,6 +56,7 @@ Arsenal of fuzzing and verification tools, tailor-made for probing and dissectin
 - [**Gustavo Grieco - Spearbit: Echidna Workshop**](https://www.youtube.com/watch?v=kAfknRlvAt0)
 - [**@agfviggiano Advanced Fuzzing Techniques: An eBTC Case Study**](https://youtu.be/ELY_zjIAKuE?feature=shared)
 - [**@agfviggiano OpenSense Invariant Testing Workshop**](https://www.youtube.com/watch?v=YAF79t_Sfiw)
+- [**@agfviggiano How to How to write (good) invariants?**](https://twitter.com/agfviggiano/status/1735235127171551320)
 - [**RareSkills invariant testing in foundry**](https://www.rareskills.io/post/invariant-testing-solidity)
 - [**@horsefacts Invariant Testing WETH With Foundry**](https://mirror.xyz/horsefacts.eth/Jex2YVaO65dda6zEyfM_-DXlXhOWCAoSpOx5PLocYgwç)
 - [**Patrick Collins Fuzz | Invariant Tests**](https://patrickalphac.medium.com/fuzz-invariant-tests-the-new-bare-minimum-for-smart-contract-security-87ebe150e88c)
