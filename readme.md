@@ -22,6 +22,7 @@ Arsenal of fuzzing and verification tools, tailor-made for probing and dissectin
 - [**Foundry | Ethereum development framework written in Rust**](https://github.com/foundry-rs)
 - [**Echinda | Ethereum smart contract Property-based fuzzer**](https://github.com/crytic/echidna/)
 - [**Medusa | Property-based fuzzer based on Echidna written in go**](https://github.com/crytic/medusa)
+- [**Fuzz-utils | Tool for generating Foundry unit tests from smart contract fuzzer failed properties**](https://github.com/crytic/fuzz-utils)
 - [**Maat | Dynamic Symbolic Execution and Binary Analysis framework**](https://github.com/trailofbits/maat)
 - [**Optik | Echidna + Maat coupling for coverage analysis driven Fuzzing**](https://github.com/crytic/optik/tree/master)
 - [**Etheno | JSON RPC multiplexer, analysis tool wrapper, test integration tool**](https://github.com/crytic/etheno)
