@@ -85,7 +85,7 @@ Arsenal of fuzzing and verification tools, tailor-made for probing and dissectin
 - [**Certora prover documentation**](https://docs.certora.com/en/latest/)
 - [**Certora ERC4626 TrustX 2023 workshop**](https://github.com/Certora/ERC4626_Workshop)
 - [**Certora Formal Verification of Openzeppelin contracts**](https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/certora/README.md)
-- [**WilfredTA formal-methods-curriculum **](https://github.com/WilfredTA/formal-methods-curriculum/tree/master)
+- [**WilfredTA formal-methods-curriculum**](https://github.com/WilfredTA/formal-methods-curriculum/tree/master)
 - [**Everything You Wanted to Know About Symbolic Execution for Ethereum Smart Contracts**](https://hackmd.io/@SaferMaker/EVM-Sym-Exec)
 - [**The Easy Way To Quit (Concrete) Testing**](https://hackmd.io/@SaferMaker/EVM-Sym-Test)
 - [**0xkarmacoma Beyond Fuzzing: Symbolic Testing in Practice Solidity Summit 2023**](https://www.youtube.com/watch?v=GFCjG5KOetM&list=PLX8x7Zj6VeznJuVkZtRyKwseJdrr4mNsE&index=13) ([X thread](https://twitter.com/0xkarmacoma/status/1725675343993065504))
