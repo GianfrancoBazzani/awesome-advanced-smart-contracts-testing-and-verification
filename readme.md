@@ -2,7 +2,7 @@
 
 # Awesome Advanced Smart Contracts Testing and Verification [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> A curated collection of tools, frameworks, and resources for testing and verifying smart contracts. Meant to be used by blockchain developers and security researchers as a knowledge source.
+> A curated collection of tools, frameworks, and resources for testing and verifying Solidity smart contracts. Meant to be used by blockchain developers and security researchers as a knowledge source.
 
 ## Contents
 
