@@ -106,6 +106,7 @@ Specification framework for writing structured Solidity tests.
 - [**@PaulRBerg Branching Tree Technique**](https://twitter.com/PaulRBerg/status/1682346315806539776)
 - [**@PaulRberg Solidity Summit 2023 Branching Tree Technique**](https://www.youtube.com/watch?v=0-EmbNVgFA4&list=PLX8x7Zj6VeznJuVkZtRyKwseJdrr4mNsE&index=14)
 - [**PaulRBerg/btt-examples**](https://github.com/PaulRBerg/btt-examples)
+- [HostDeFi](https://hostdefi.com) — free token-safety scanner grading tokens A+–F from on-chain checks (mint/freeze authority, liquidity, holder concentration) across Solana + 7 EVM chains. Keyless REST API, hosted MCP, x402 endpoints.
 
 ## Contribute
 
